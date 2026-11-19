@@ -26,7 +26,8 @@ author = "Enock Kirui"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Enock personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+info = ["Building practical technology
+for real-world problems."]
 #avatarURL = "images/avatar.jpg"
 gravatar = "test1@example.com"
 dateFormat = "January 2, 2006"
